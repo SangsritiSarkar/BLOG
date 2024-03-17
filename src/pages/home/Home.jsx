@@ -1,7 +1,7 @@
 import "./home.css";
-import Header from "../../header/Header";
-import Posts from "../../posts/Posts";
-import Sdb from "../../sdb/Sdb";
+import Header from "../../components/header/Header";
+import Posts from "../../components/posts/Posts";
+import Sdb from "../../components/sdb/Sdb";
 
 export default function Home() {
   return (
