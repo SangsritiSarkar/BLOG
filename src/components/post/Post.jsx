@@ -1,11 +1,11 @@
 import "./post.css"
 
-export default function Post({img}) {
+export default function Post() {
   return (
     <div className="post">
         <img
           className="postImg"
-            src={img}
+            src="https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg"
             alt=""
         />
         <div className="postIntfo">
